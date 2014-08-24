@@ -1,0 +1,17 @@
+{
+  "name": "angular-d3-multiline",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jamm/angular-d3-multiline",
+  "authors": [
+    "OZ <normandiggs@gmail.com>"
+  ],
+  "description": "AngularJS directive to draw D3 line chart with multiple lines",
+  "main": "d3multiline.js",
+  "keywords": [
+    "d3",
+    "linechart",
+    "multiline",
+    "angular"
+  ],
+  "license": "MIT"
+}
